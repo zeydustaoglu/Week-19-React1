@@ -45,7 +45,7 @@ In this lesson we cover a lot
 
 In the following lessons you will see more:
 
-- props, states, hooks, ES6 (map/filter/reduce, spread operator, destructing)
+- props, states, hooks, ES6 (map/filter/reduce, arrow functions, spread operator, destructing)
 
 
 
