@@ -10,14 +10,14 @@ In this section, we are going to start with React, We well see basic concepts of
 #### Lecture
 
 ##### Why React?
-####### React is popular
+###### React is popular
 
--You see a lot of job offers, that makes it right investmen on it
+- You see a lot of job offers, that makes it right investmen on it
 - Nowadays you see a lot of jQuery jobs on demand, that is because jQuery was the best before new libraries.
 A lot of projects started with jQuery in that time period and now still you see a lot of job offers. 
 That indicates even React is not popular in the future, you will still see alot of job offers..
 
-####### React is modular
+###### React is modular
 
 - There is component sctructure
 - Each component has its HTML, CSS, Js
@@ -25,7 +25,7 @@ That indicates even React is not popular in the future, you will still see alot 
 - Modularity bring reusability of codes
 
 
-####### React is fast
+###### React is fast
 
 - React doesn't use the DOM directy, (jQuery does)
 - React uses something called VirtualDom
