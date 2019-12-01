@@ -1,7 +1,5 @@
 ## Make your first React project from scratch
 
-### Implement jQuery in your express-ejs project
-
 - Make a repo via your gitHub and clone it
 - In the cloned folder start your react app via create-react-app
 - The project/website can be about any topic
