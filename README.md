@@ -56,7 +56,7 @@ In the following lessons you will see more:
 
 ### Assignments
 
-In this section, there is a mandatory [assignment](./assignments) for you to solve.
+In this section, there is a mandatory [assignment](./assignment) for you to solve.
 
 Please feel free to ask any question on the #questions channel on Slack and also feel free to answer if you have answers for the questions of your colleagues. The more you help and explain the more you learn. 
 
